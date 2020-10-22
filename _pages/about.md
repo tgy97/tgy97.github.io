@@ -12,17 +12,15 @@ My name is Tian Guiyu(田贵宇). I am currently a second-year master student at
 
 Education
 ======
-M.S., Center for Data Science, Peking University, 2019 - 2022.  
-B.S., School of electronics engineering and computer science(EECS), Peking University, 2015 -2019.  
+M.S. in Center for Data Science, Peking University, 2019 - 2022.  
+B.S. in School of electronics engineering and computer science(EECS), Peking University, 2015 -2019.  
 
-Getting started
+
+Publication
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<p><strong>Guiyu Tian</strong>, Shuai Wang, Jie Feng, Li Zhou, Yadong Mu <br />
+<strong>Cap2Seg: Inferring Semantic and Spatial Context from Captions for Zero-Shot Image Segmentation</strong>,<br /> 
+ACM International Conference on Multimedia (ACMMM) 2020</p>
 
 Site-wide configuration
 ------
