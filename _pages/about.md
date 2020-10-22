@@ -6,19 +6,19 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+---------------
 My name is Tian Guiyu(田贵宇). I am currently a second-year master student at Peking University, supervised by Prof. [Yadong Mu](http://www.muyadong.com). Before, I obtained B.S. degree from EECS, Peking University.  
 My research interests lie in Backdoor Attack, Video Understanding and Zero Shot Learning.
 
 
 Education  
-*********
+---------------
 M.S. in Center for Data Science, Peking University, 2019 - 2022.  
 B.S. in Department of Computer Science and Technology, Peking University, 2015 -2019.  
 
 
 Publication  
-*********
+---------------
 <p><strong>Guiyu Tian</strong>, Shuai Wang, Jie Feng, Li Zhou, Yadong Mu <br />
 <strong>Cap2Seg: Inferring Semantic and Spatial Context from Captions for Zero-Shot Image Segmentation</strong>,<br /> 
 ACM International Conference on Multimedia (ACMMM) 2020</p>
@@ -36,12 +36,12 @@ ACM International Conference on Multimedia (ACMMM) 2019</p>
 ICCV Workshops 2019</p>
 
 Experience  
-*********
+---------------
 Tencent Medical AI Lab, Research Intern  
 June 2018 - October 2018
 
 
 Award  
-*********
+---------------
 2016-2017, Excellent Research Award, Peking University.  
 
