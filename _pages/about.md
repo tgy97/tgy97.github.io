@@ -12,8 +12,8 @@ My name is Tian Guiyu(田贵宇). I am currently a second-year master student at
 
 Education
 ======
-M.S., Center for Data Science, Peking University, 2019 - 2022
-B.S., School of electronics engineering and computer science(EECS), Peking University, 2015 -2019
+M.S., Center for Data Science, Peking University, 2019 - 2022.
+B.S., School of electronics engineering and computer science(EECS), Peking University, 2015 -2019.
 
 Getting started
 ======
