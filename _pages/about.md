@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Tian Guiyu(田贵宇). I am currently a second-year master student at Peking University, supervised by Prof. [Yadong Mu](http://www.muyadong.com). Before, I obtained B.S. degree from EECS, Peking University. My research interests lie in Backdoor Attack, Video Understanding and Zero Shot Learning.
+My name is Tian Guiyu(田贵宇). I am currently a second-year master student at Peking University, supervised by Prof. [Yadong Mu](http://www.muyadong.com). Before, I obtained B.S. degree from EECS, Peking University.  
+My research interests lie in Backdoor Attack, Video Understanding and Zero Shot Learning.
 
 
 Education
