@@ -34,3 +34,13 @@ ACM International Conference on Multimedia (ACMMM) 2019</p>
 <strong>Two-Stream Video Classification with Cross-Modality Attention</strong>,<br /> 
 ICCV Workshops 2019</p>
 
+Experience
+======
+Tencent Medical AI Lab, Research Intern
+June 2018 - October 2018
+
+
+Award
+======
+2016-2017, Excellent Research Award, Peking University.  
+
