@@ -13,7 +13,7 @@ My name is Tian Guiyu(田贵宇). I am currently a second-year master student at
 Education
 ======
 M.S. in Center for Data Science, Peking University, 2019 - 2022.  
-B.S. in School of electronics engineering and computer science(EECS), Peking University, 2015 -2019.  
+B.S. in Department of Computer Science and Technology, Peking University, 2015 -2019.  
 
 
 Publication
@@ -36,7 +36,7 @@ ICCV Workshops 2019</p>
 
 Experience
 ======
-Tencent Medical AI Lab, Research Intern
+Tencent Medical AI Lab, Research Intern  
 June 2018 - October 2018
 
 
