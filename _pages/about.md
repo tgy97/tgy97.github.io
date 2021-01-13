@@ -44,7 +44,7 @@ June 2018 - October 2018
 
 Award  
 ------
-2020-2021, Outstanding Student, Wangxuan Institute of Computer Science
+2020-2021, Outstanding Student, Wangxuan Institute of Computer Science.  
 2019-2020, Samsung Scholarship, Peking University.  
 2016-2017, Excellent Research Award, Peking University.  
 
