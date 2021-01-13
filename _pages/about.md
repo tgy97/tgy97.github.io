@@ -21,15 +21,15 @@ Publication
 ------
 
 <strong>Guiyu Tian</strong>, Shuai Wang, Jie Feng, Li Zhou, Yadong Mu <br />
-<strong>Cap2Seg: Inferring Semantic and Spatial Context from Captions for Zero-Shot Image Segmentation</strong>,[[pdf]](https://github.com/tgy97/tgy97.github.io/blob/master/_pages/paper/cap2seg.pdf)<br />
+<strong>Cap2Seg: Inferring Semantic and Spatial Context from Captions for Zero-Shot Image Segmentation</strong>,[[pdf]](https://github.com/tgy97/tgy97.github.io/blob/master/_pages/paper/cap2seg.pdf?raw=True)<br />
 ACM International Conference on Multimedia (ACMMM) 2020
 
 Yongzhi Li, Lu Chi, <strong>Guiyu Tian</strong>, Yadong Mu, Shen Ge, Zhi Qiao, Xian Wu, Wei Fan <br />
-<strong>Spectrally-Enforced Global Receptive Field for Contextual Medical Image Segmentation and Classification</strong>,[[pdf]](https://github.com/tgy97/tgy97.github.io/blob/master/_pages/paper/lyz.pdf)<br /> 
+<strong>Spectrally-Enforced Global Receptive Field for Contextual Medical Image Segmentation and Classification</strong>,[[pdf]](https://github.com/tgy97/tgy97.github.io/blob/master/_pages/paper/lyz.pdf?raw=True)<br /> 
 IEEE International Conference on Multimedia and Expo (ICME) 2020
 
 Lu Chi, <strong>Guiyu Tian</strong>, Yadong Mu, Lingxi Xie, Qi Tian<br />
-<strong>Fast Non-Local Neural Networks with Spectral Residual Learning</strong>,[[pdf]](https://github.com/tgy97/tgy97.github.io/blob/master/_pages/paper/SRL.pdf)<br /> 
+<strong>Fast Non-Local Neural Networks with Spectral Residual Learning</strong>,[[pdf]](https://github.com/tgy97/tgy97.github.io/blob/master/_pages/paper/SRL.pdf?raw=True)<br /> 
 ACM International Conference on Multimedia (ACMMM) 2019
 
 Lu Chi, <strong>Guiyu Tian</strong>, Yadong Mu, Qi Tian <br />
