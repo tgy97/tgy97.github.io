@@ -25,11 +25,11 @@ Publication
 ACM International Conference on Multimedia (ACMMM) 2020
 
 Yongzhi Li, Lu Chi, <strong>Guiyu Tian</strong>, Yadong Mu, Shen Ge, Zhi Qiao, Xian Wu, Wei Fan <br />
-<strong>Spectrally-Enforced Global Receptive Field for Contextual Medical Image Segmentation and Classification</strong>,[[pdf]](file:./paper/lyz.pdf)<br /> 
+<strong>Spectrally-Enforced Global Receptive Field for Contextual Medical Image Segmentation and Classification</strong>,[[pdf]](https://github.com/tgy97/tgy97.github.io/blob/master/_pages/paper/lyz.pdf)<br /> 
 IEEE International Conference on Multimedia and Expo (ICME) 2020
 
 Lu Chi, <strong>Guiyu Tian</strong>, Yadong Mu, Lingxi Xie, Qi Tian<br />
-<strong>Fast Non-Local Neural Networks with Spectral Residual Learning</strong>,[[pdf]](file:./paper/SRL.pdf)<br /> 
+<strong>Fast Non-Local Neural Networks with Spectral Residual Learning</strong>,[[pdf]](https://github.com/tgy97/tgy97.github.io/blob/master/_pages/paper/SRL.pdf)<br /> 
 ACM International Conference on Multimedia (ACMMM) 2019
 
 Lu Chi, <strong>Guiyu Tian</strong>, Yadong Mu, Qi Tian <br />
