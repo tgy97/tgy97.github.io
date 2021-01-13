@@ -21,7 +21,7 @@ Publication
 ------
 
 <strong>Guiyu Tian</strong>, Shuai Wang, Jie Feng, Li Zhou, Yadong Mu <br />
-<strong>Cap2Seg: Inferring Semantic and Spatial Context from Captions for Zero-Shot Image Segmentation</strong>,[[pdf]](file:./paper/cap2seg.pdf)<br />
+<strong>Cap2Seg: Inferring Semantic and Spatial Context from Captions for Zero-Shot Image Segmentation</strong>,[[pdf]](file:./_pages/paper/cap2seg.pdf)<br />
 ACM International Conference on Multimedia (ACMMM) 2020
 
 Yongzhi Li, Lu Chi, <strong>Guiyu Tian</strong>, Yadong Mu, Shen Ge, Zhi Qiao, Xian Wu, Wei Fan <br />
