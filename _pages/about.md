@@ -19,21 +19,22 @@ B.S. in Department of Computer Science and Technology, Peking University, 2015 -
 
 Publication  
 ------
-<p><strong>Guiyu Tian</strong>, Shuai Wang, Jie Feng, Li Zhou, Yadong Mu <br />
-<strong>Cap2Seg: Inferring Semantic and Spatial Context from Captions for Zero-Shot Image Segmentation</strong>,<br /> [[pdf]](file:./paper/cap2seg.pdf)
-ACM International Conference on Multimedia (ACMMM) 2020</p>
 
-<p>Yongzhi Li, Lu Chi, <strong>Guiyu Tian</strong>, Yadong Mu, Shen Ge, Zhi Qiao, Xian Wu, Wei Fan <br />
-<strong>Spectrally-Enforced Global Receptive Field for Contextual Medical Image Segmentation and Classification</strong>,<br /> 
-IEEE International Conference on Multimedia and Expo (ICME) 2020</p>
+<strong>Guiyu Tian</strong>, Shuai Wang, Jie Feng, Li Zhou, Yadong Mu <br />
+<strong>Cap2Seg: Inferring Semantic and Spatial Context from Captions for Zero-Shot Image Segmentation</strong>,[[pdf]](file:./paper/cap2seg.pdf)<br />
+ACM International Conference on Multimedia (ACMMM) 2020
 
-<p>Lu Chi, <strong>Guiyu Tian</strong>, Yadong Mu, Lingxi Xie, Qi Tian<br />
-<strong>Fast Non-Local Neural Networks with Spectral Residual Learning</strong>,<br /> 
-ACM International Conference on Multimedia (ACMMM) 2019</p>
+Yongzhi Li, Lu Chi, <strong>Guiyu Tian</strong>, Yadong Mu, Shen Ge, Zhi Qiao, Xian Wu, Wei Fan <br />
+<strong>Spectrally-Enforced Global Receptive Field for Contextual Medical Image Segmentation and Classification</strong>,[[pdf]](file:./paper/lyz.pdf)<br /> 
+IEEE International Conference on Multimedia and Expo (ICME) 2020
 
-<p>Lu Chi, <strong>Guiyu Tian</strong>, Yadong Mu, Qi Tian <br />
-<strong>Two-Stream Video Classification with Cross-Modality Attention</strong>,<br /> 
-ICCV Workshops 2019</p>
+Lu Chi, <strong>Guiyu Tian</strong>, Yadong Mu, Lingxi Xie, Qi Tian<br />
+<strong>Fast Non-Local Neural Networks with Spectral Residual Learning</strong>,[[pdf]](file:./paper/SRL.pdf)<br /> 
+ACM International Conference on Multimedia (ACMMM) 2019
+
+Lu Chi, <strong>Guiyu Tian</strong>, Yadong Mu, Qi Tian <br />
+<strong>Two-Stream Video Classification with Cross-Modality Attention</strong>,[[pdf]](https://arxiv.org/abs/1908.00497)<br /> 
+ICCV Workshops 2019
 
 Experience  
 ------
