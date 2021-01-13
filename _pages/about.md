@@ -44,36 +44,8 @@ June 2018 - October 2018
 
 Award  
 ------
+2020-2021, Outstanding Student, Wangxuan Institute of Computer Science
 2019-2020, Samsung Scholarship, Peking University.  
 2016-2017, Excellent Research Award, Peking University.  
 
-<script>
-    // 高度大于600的添加滚动条
-    // $('pre').each(function (ind, dom) {
-    //     if ($(dom).css('height').slice(0, -2) > 600) {
-    //         $(dom).css('height', '600px');
-    //         $(dom).css('overflow', 'auto');
-    //     }
-    // })
-
-    // 高度大于600的添加显示隐藏按钮
-    $('pre').each(function (ind, dom){
-        if ($(dom).css('height').slice(0, -2) > 500) {
-            var mybtn = document.createElement('button');
-            $(mybtn).html('↓ShowCode↓');
-            $(mybtn).css({'border-radius': '4px','background-color':'lightblue','cursor':'pointer','border-color':'lightblue'});
-            $(mybtn).insertBefore($(dom));
-            $(dom).css('display', 'none');
-            $(mybtn).click(function () {
-                if($(mybtn).html()=='↓ShowCode↓'){
-                    $(dom).css('display', 'block');
-                    $(mybtn).html('↓CloseCode↓');
-                }else {
-                    $(dom).css('display', 'none');
-                    $(mybtn).html('↓ShowCode↓');
-                }
-            })
-        }
-    });
-</script>
 
