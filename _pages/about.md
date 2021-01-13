@@ -20,7 +20,7 @@ B.S. in Department of Computer Science and Technology, Peking University, 2015 -
 Publication  
 ------
 <p><strong>Guiyu Tian</strong>, Shuai Wang, Jie Feng, Li Zhou, Yadong Mu <br />
-<strong>Cap2Seg: Inferring Semantic and Spatial Context from Captions for Zero-Shot Image Segmentation</strong>,<br /> 
+<strong>Cap2Seg: Inferring Semantic and Spatial Context from Captions for Zero-Shot Image Segmentation</strong>,<br /> [[pdf]](file:./paper/cap2seg.pdf)
 ACM International Conference on Multimedia (ACMMM) 2020</p>
 
 <p>Yongzhi Li, Lu Chi, <strong>Guiyu Tian</strong>, Yadong Mu, Shen Ge, Zhi Qiao, Xian Wu, Wei Fan <br />
@@ -45,4 +45,34 @@ Award
 ------
 2019-2020, Samsung Scholarship, Peking University.  
 2016-2017, Excellent Research Award, Peking University.  
+
+<script>
+    // 高度大于600的添加滚动条
+    // $('pre').each(function (ind, dom) {
+    //     if ($(dom).css('height').slice(0, -2) > 600) {
+    //         $(dom).css('height', '600px');
+    //         $(dom).css('overflow', 'auto');
+    //     }
+    // })
+
+    // 高度大于600的添加显示隐藏按钮
+    $('pre').each(function (ind, dom){
+        if ($(dom).css('height').slice(0, -2) > 500) {
+            var mybtn = document.createElement('button');
+            $(mybtn).html('↓ShowCode↓');
+            $(mybtn).css({'border-radius': '4px','background-color':'lightblue','cursor':'pointer','border-color':'lightblue'});
+            $(mybtn).insertBefore($(dom));
+            $(dom).css('display', 'none');
+            $(mybtn).click(function () {
+                if($(mybtn).html()=='↓ShowCode↓'){
+                    $(dom).css('display', 'block');
+                    $(mybtn).html('↓CloseCode↓');
+                }else {
+                    $(dom).css('display', 'none');
+                    $(mybtn).html('↓ShowCode↓');
+                }
+            })
+        }
+    });
+</script>
 
